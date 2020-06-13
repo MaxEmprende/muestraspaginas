@@ -736,27 +736,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-s1KFHrh6oy {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-s1KFHrh6oy .title {
-  margin-bottom: 2rem;
-}
-.cid-s1KFHrh6oy .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-s1KFHrh6oy a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-s1KFHrh6oy a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-s1KFHrh6oy textarea.form-control {
-  min-height: 188px;
-}
 .cid-s1KGI1LdsY {
   padding-top: 90px;
   padding-bottom: 90px;
